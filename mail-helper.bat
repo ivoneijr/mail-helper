@@ -1,0 +1,1 @@
+javaw -jar mail-helper-0.0.1-SNAPSHOT-jar-with-dependencies.jar "carlosrenck@gmail.com;ivoneijr@gmail.com" "C:\\Users\\ivonei.marques\\workspace\\mail-helper\\anexo.txt;C:\\Users\\ivonei.marques\\workspace\\mail-helper\\anexo2.txt" "teste de javaMail" "Corpo da mensagem........."
